@@ -1,4 +1,4 @@
-## cicd applied to spring boot using Spring boot suite 4.
+## cicd applied to spring boot using Spring boot suite 4
 
 idea from:
 
