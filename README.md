@@ -6,3 +6,4 @@ https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot?edition=
 
 entry point of spring boot app: http://localhost:8080/
 
+[![Build Status](https://travis-ci.com/shaunmillar/cicd-applied-to-spring-boot-java-app.svg)](https://travis-ci.com/shaunmillar/cicd-applied-to-spring-boot-java-app)
